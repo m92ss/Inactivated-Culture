@@ -672,7 +672,7 @@ Upon exit, consider checking the following items:
 
 ## Closing
 
-Your time — the hours you have invested — is non-renewable, finite, and the only asset that is truly yours. No matter how grand an organization's claims may be, if your contributions cannot be transformed into that can stand independently and be controlled by you, then you have not been treated fairly.
+Your time — the hours you have invested — is non-renewable, finite, and the only asset that is truly yours. No matter how grand an organization's claims may be, if your contributions cannot be transformed into outcomes that stand independently and remain under your control, then you have not been treated fairly.
 
 Maintaining boundaries is not "being closed." Demanding verification is not "lacking trust." Genuine openness withstands scrutiny; genuine trust rests on symmetrical responsibility.
 
