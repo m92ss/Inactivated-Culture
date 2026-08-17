@@ -370,7 +370,7 @@ In a sincere structure, "validation" comes from independent third parties. In an
 
 ---
 
-**[Case study: Five-module closed-loop mutual validation]**
+**Case study**: Five-module closed-loop mutual validation
 
 In a "cross-framework validation" project, the "validity" of five functional modules was entirely confirmed within the project through mutual cross-reference:
 
@@ -418,7 +418,7 @@ The structural distinction is:
 
 ---
 
-**[Case study: Storage-layer contributor's endorsement trap]**
+**Case study**: Storage-layer contributor's endorsement trap
 
 A storage-layer contributor provided only deterministic records of underlying data (e.g., timestamped "old value → new value" replacements). The project lead, in the joint report, characterized her work as:
 - "Receipt ④: the physical anchor of the ATA-A three-phase structure reducing cross-framework average variance";
@@ -458,7 +458,7 @@ This is not "conspiracy against you" — it is **a group of people, each reactin
 
 ---
 
-**[Case study: How a boundary challenge was absorbed and neutralized]**
+**Case study**: How a boundary challenge was absorbed and neutralized
 
 A storage-layer contributor raised two explicit boundary statements to the project lead:
 1. *"I only provided underlying storage records. I do not produce the so-called 'divergence' value — that belongs to upper-layer modules and is not part of my contribution."*
@@ -672,7 +672,7 @@ Upon exit, consider checking the following items:
 
 ## Closing
 
-Your time — the hours you have invested — is non-renewable, finite, and the only asset that is truly yours. No matter how grand an organization's claims may be, if your contributions cannot be transformed into成果 that can stand independently and be controlled by you, then you have not been treated fairly.
+Your time — the hours you have invested — is non-renewable, finite, and the only asset that is truly yours. No matter how grand an organization's claims may be, if your contributions cannot be transformed into that can stand independently and be controlled by you, then you have not been treated fairly.
 
 Maintaining boundaries is not "being closed." Demanding verification is not "lacking trust." Genuine openness withstands scrutiny; genuine trust rests on symmetrical responsibility.
 
