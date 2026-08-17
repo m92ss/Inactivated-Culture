@@ -38,10 +38,8 @@ Ad-hoc Collaboration Quick Checklist
 ▢ Would your exit incur structural reputational or relational costs?
 
 Final Determination:
-
 If, in any single chapter, more than half of the check items are "No" or "Cannot answer" — that dimension is already showing red.
-If two or more dimensions are simultaneously red — the evidence is sufficient; you do not need to further prove your doubts.
-Begin calculating your exit costs.
+If two or more dimensions are simultaneously red — the evidence is sufficient; begin calculating your exit costs.
 ```
 
 ---
