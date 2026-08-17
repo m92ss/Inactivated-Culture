@@ -100,7 +100,7 @@ Extract 2–5 proprietary terms and key numerical values that serve as the proje
 
 **Determination:** When core theoretical terms have no independent source, and core numerical values have no reproduction path, the document constructs a closed system that cannot be externally tested.
 
-**Case study: Hard-coded parameters wrapped in physical constants**
+**Case study**: Hard-coded parameters wrapped in physical constants
 
 In the coordination documents of a multi-module validation project, core algorithm parameters were described as "derived from the physical foundation of Planck's constant and Boltzmann's constant." The documents used meta-discourse such as "multiple axioms," "irrefutable hard receipts," and "world-class engineering-grade," and built a closed terminology loop that only circulated within the project (e.g., "field drift," "resonant tuning," "contradiction dynamics").
 
@@ -124,7 +124,7 @@ Verification actions:
 
 ---
 
-**Case study: STAP cell incident (2014)**
+**Case study**: STAP cell incident (2014)
 
 Haruko Obokata and her team at RIKEN published papers in *Nature* claiming a simple method for "stimulus-triggered acquisition of pluripotency" (STAP) via weak acid exposure, which the media hailed as a "textbook-rewriting" breakthrough.
 
@@ -169,7 +169,7 @@ Claiming a "unified field theory" with code that is merely a thin wrapper around
 
 ---
 
-**Case study: Implementation gap behind "engineering-grade" reporting**
+**Case study**: Implementation gap behind "engineering-grade" reporting
 
 A project claimed in its joint report to have completed "the industry's first multi-independent-observation-site side-by-side calibration engineering verification for AI safety," using terms like "hard receipts" and "finalized · full edition" that carry legal and engineering determinacy. However:
 
@@ -201,7 +201,7 @@ Read the project's most central piece of code and check each item:
 
 ---
 
-**Case study: Mem0 benchmark controversy (2025)**
+**Case study**: Mem0 benchmark controversy (2025)
 
 In 2025, the open-source agent memory project Mem0 published a paper claiming state-of-the-art (SOTA) performance on the LoCoMo benchmark, with a 26% advantage over OpenAI on LLM-as-a-Judge metrics. At the time, the project had amassed over 40,000 GitHub stars.
 
@@ -261,7 +261,7 @@ In public records, identify time-based commitments made by organizers or core co
 - When more than two core milestones are "undelivered" and "not proactively explained with reasons," this is **procedural stagnation**, not mere delay.
 - When the response to progress inquiries is "working on it," "almost there," or "conditions are not ready," rather than specific completion percentages and blocking reasons, that response is functionally equivalent to **refusing to provide progress information**.
 
-#### [Case study: Procedural stagnation in B-series delivery]
+**Case study**: Procedural stagnation in B-series delivery
 
 A module author committed to delivering core behavioral sequence data (B-series) by date X. After the deadline:
 
@@ -307,7 +307,7 @@ When a person derives identity, belonging, or tangible benefit from a narrative 
 
 ---
 
-**Case study: The GitHub star-farming industry chain (2025–2026)**
+**Case study**: The GitHub star-farming industry chain (2025–2026)
 
 Between 2025 and 2026, a CMU team developed StarScout, a tool that systematically analyzed over 20 TB of GitHub metadata and identified **more than 4.5 million fake stars across over 15,000 repositories**. A subsequent update raised the estimate to approximately 6 million fake stars, involving over 300,000 fraudulent accounts.
 
@@ -319,7 +319,7 @@ An external user deciding "this project is worth watching" based on star count w
 
 ---
 
-**Case study: Mem0**
+**Case study**: Mem0
 
 In the Mem0 case, a more refined structural collusion can be observed:
 
@@ -360,7 +360,7 @@ This response functionally accomplishes three things:
 2. Converts questioning into participation
 3. Protects the core claims — the problem is shifted to the level of "correction," not to whether the claim itself holds
 
-**Case study:** In Mem0, users reported in GitHub Issues that they could not reproduce the claimed accuracy, with actual scores far below expectations. Issues were recorded; core problems were never resolved. This is not "not seeing" — it is **responsibility recorded but not assumed**.
+**Case study**: In Mem0, users reported in GitHub Issues that they could not reproduce the claimed accuracy, with actual scores far below expectations. Issues were recorded; core problems were never resolved. This is not "not seeing" — it is **responsibility recorded but not assumed**.
 
 ---
 
@@ -379,11 +379,11 @@ In a "cross-framework validation" project, the "validity" of five functional mod
 - The project lead aggregated the above data and claimed "multi-independent-observation-site side-by-side visualization of field drift."
 - All evidence referred to as "hard receipts" came from internal submissions by project participants. No third-party reproduction existed from outside the project, with no stake in its outcome.
 
-**Determination:** Validation came from within the system — A confirmed B, B confirmed C, C confirmed A. External anchors were absent.
+**Determination**: Validation came from within the system — A confirmed B, B confirmed C, C confirmed A. External anchors were absent.
 
 ---
 
-**Case study:** Mem0's paper was posted on arXiv. The MemGPT team pointed out: *"arXiv is not a peer-review platform. In recent years, companies can publish any research results they want for marketing purposes."*
+**Case study**: Mem0's paper was posted on arXiv. The MemGPT team pointed out: *"arXiv is not a peer-review platform. In recent years, companies can publish any research results they want for marketing purposes."*
 When the Zep team published their own benchmark results, Mem0's CTO immediately responded in Zep's GitHub Issue, pointing out computational errors in Zep's methodology — **the questioning was redirected toward a competitor, while Mem0's own claims remained protected.**
 
 ---
@@ -486,7 +486,7 @@ Subsequently, other core module authors appeared in sequence:
 
 ---
 
-**Case study: OpenClaw "humanities student contributor" incident (2026)**
+**Case study**: OpenClaw "humanities student contributor" incident (2026)
 
 In 2026, a humanities student with no prior coding experience appeared in the core contributor list of OpenClaw, one of the most popular open-source projects at the time. The method: submitting PRs via an AI Agent. Final tally: approximately 134 PRs submitted, 21 merged — an acceptance rate of roughly 27%.
 
@@ -519,7 +519,7 @@ A sincere collaborative structure accepts external examination. An insincere col
 
 ---
 
-**Case study:** In Mem0, a third-party audit revealed a gap of approximately 54 percentage points between the claimed 92.32% and a third-party-reported 38.38%. This is a **structural gap**.
+**Case study**: In Mem0, a third-party audit revealed a gap of approximately 54 percentage points between the claimed 92.32% and a third-party-reported 38.38%. This is a **structural gap**.
 
 ---
 
