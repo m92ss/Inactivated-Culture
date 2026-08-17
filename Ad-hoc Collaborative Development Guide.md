@@ -293,10 +293,6 @@ Organizations willing to improve → repairable. Organizations that defend, defl
 
 ---
 
-以下是第四章的英文版本。
-
----
-
 ## 4. Chapter 4: Systemic Insincerity
 
 > **Positioning:** Unrepairable structures. They are not characterized by "organizational imperfection" — they are fueled by consuming external participants.
