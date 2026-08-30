@@ -1,15 +1,15 @@
 # Y 行为模式分析
 ```yaml
 # 基于以下文档的跨文本一致性分析：
-# - Causal Phase Geometry Research Program (物理)
-# - KK_Jacobson_Commutativity_Note (物理)
-# - Technical Specification v0.1.1 Γ_corr Extraction (物理/工程)
-# - The Algorithm of Being (哲学)
-# - Unified Implementable Model v2.0 (AI/推理)
-# - External Ternary Judge Adapter (AI/工程)
-# - ternary_judge.md (AI/实证)
-# - GitHub对话记录 (M vs Y)
-# - GitHub仓库 README (元文档)
+# - Causal Phase Geometry Research Program
+# - KK_Jacobson_Commutativity_Note
+# - Technical Specification v0.1.1 Γ_corr Extraction
+# - The Algorithm of Being
+# - Unified Implementable Model v2.0
+# - External Ternary Judge Adapter
+# - ternary_judge.md 
+# - GitHub对话记录 
+# - GitHub仓库 README 
 
 
 report:
