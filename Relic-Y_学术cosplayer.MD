@@ -1,4 +1,6 @@
 # 学术COSPLAY
+行为逻辑分析材料
+
 ```yaml
 meta:
   author: "Y"
