@@ -1,5 +1,6 @@
 # 学术COSPLAY
 行为逻辑分析材料
+“The first principle is that you must not fool yourself—and you are the easiest person to fool.”
 
 ```yaml
 meta:
