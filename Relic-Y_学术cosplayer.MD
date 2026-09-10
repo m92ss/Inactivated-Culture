@@ -998,13 +998,13 @@ Y对M的预期结构：
 ```
 
 ## 文案结构性分析
-ARCHITECTURAL_SPECIFICATION-断裂.MD
-Causal_Phase_Geometry_Research_Program-断裂.md
-ENGINEERING_SPECIFICATION-断裂.md
-External_Ternary_Judge_Adapter-断裂.MD
-KK_Jacobson_Commutativity_Note-断裂.md
-Technical_Specification_v0.1.1-断裂.MD
-ternary_judge-断裂.MD
-The Algorithm of Being-断裂.md
-Unified Informational-Constructive Framework-断裂.md
-Unified_Implementable_Model-断裂.md
+- ARCHITECTURAL_SPECIFICATION-断裂.MD
+- Causal_Phase_Geometry_Research_Program-断裂.md
+- ENGINEERING_SPECIFICATION-断裂.md
+- External_Ternary_Judge_Adapter-断裂.MD
+- KK_Jacobson_Commutativity_Note-断裂.md
+- Technical_Specification_v0.1.1-断裂.MD
+- ternary_judge-断裂.MD
+- The Algorithm of Being-断裂.md
+- Unified Informational-Constructive Framework-断裂.md
+- Unified_Implementable_Model-断裂.md
