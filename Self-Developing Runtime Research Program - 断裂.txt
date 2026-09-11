@@ -1,4 +1,4 @@
-**这不是“Self-Developing Runtime”，这是“人类监工 + 7B 提案生成器 + 外部验证器橡皮图章”。**  
+这不是“Self-Developing Runtime”，这是“人类监工 + 7B 提案生成器 + 外部验证器橡皮图章”。
 你要用人来把控，那 7B 模型在里面就是个会写申请单的吉祥物。它负责 `proposal = model.generate(prompt)`，然后等外部裁决。它连“自己改自己成不成功”都不能判断。原文自己写的：
 
 > `The model never decides whether its own modification is successful. Only the external verifier may issue a binding verdict.`
@@ -32,7 +32,7 @@ bullshit两头堵：
 
 7B 模型干蛋？干的是生成提案。至于提案能不能活，7B 说了不算；人说了算，或者另一个未验证的外部组件说了算。那它就不是发展主体，是提案生成器。标题里的 `Self-Developing` 是叙事装饰，不是架构事实。
 
-裁定不变：`🐂💩💩`。  
+裁定：`🐂💩💩`。  
 第一坨：核心信任链未闭合，`Structural Verifier (Core Component)` 悬空。  
 第二坨：成功判据依赖未固定的聚合函数与阈值，主公式当前不可判定。  
 再加一句毒舌：**如果最终是人把控，那这文档最该测的不是 7B 能不能自我发展，而是作者能不能先承认自己写的是一套人类监督实验。**
@@ -43,4 +43,4 @@ bullshit两头堵：
 让 7B 生成自我修改提案，外部验证器决定通不通过，通过了就 LoRA 更新加回滚。
 
 总结：
-Y无法停止换壳。
+模式预测准确——Y无法停止换壳。
